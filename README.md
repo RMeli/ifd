@@ -4,6 +4,8 @@ Reconstruct (partial) data set used to validate Induced Fit Docking (IDF).
 
 > Sherman, W., Day, T., Jacobson, M. P., Friesner, R. A., & Farid, R. (2006). Novel procedure for modeling ligand/receptor induced fit effects. Journal of medicinal chemistry, 49(2), 534-553.
 
+If you use the data in this repository, don't forget to cite the paper above.
+
 ## Notes
 
 Visually, the poses in structures `3pgh` and `1cx2` (chain `A`) do not appear to correspond to the ones in Fig. 6 and Fig. 7.
