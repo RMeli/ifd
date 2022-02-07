@@ -6,7 +6,9 @@ Reconstruct (partial) data set used to validate Induced Fit Docking (IDF).
 
 ## Notes
 
-Visually, the poses in structures `3pgh` and `1cx2` (chain `A`) does not appear to correspond to the ones in Fig. 6 and Fig. 7.
+Visually, the poses in structures `3pgh` and `1cx2` (chain `A`) do not appear to correspond to the ones in Fig. 6 and Fig. 7.
+
+Structures `1dba` and `1dm2` have been omitted on purpose because there is not ligand in the binding site.
 
 ## Dependencies
 
