@@ -1,6 +1,12 @@
 *.pdb.gz
+docking/
 
+# Misc
 tmp/
+nohup.out
+
+# Images
+*.png
 
 # Containers
 singularity
