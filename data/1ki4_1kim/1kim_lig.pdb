@@ -1,0 +1,18 @@
+REMARK Selection 'hetatm and resn...THM and chain B'
+HETATM    1  O5' THM B   2      49.908  81.512  53.173  1.00 16.94           O  
+HETATM    2  C5' THM B   2      50.642  82.731  53.185  1.00 14.85           C  
+HETATM    3  C4' THM B   2      50.263  83.656  54.310  1.00 14.96           C  
+HETATM    4  O4' THM B   2      48.960  84.216  54.119  1.00 16.11           O  
+HETATM    5  C3' THM B   2      50.206  83.143  55.651  1.00 13.47           C  
+HETATM    6  O3' THM B   2      50.137  84.244  56.504  1.00 16.09           O  
+HETATM    7  C2' THM B   2      48.832  82.674  55.699  1.00 13.06           C  
+HETATM    8  C1' THM B   2      48.037  83.768  55.076  1.00 12.75           C  
+HETATM    9  N1  THM B   2      46.821  83.336  54.287  1.00 11.30           N  
+HETATM   10  C2  THM B   2      45.665  83.995  54.622  1.00  9.62           C  
+HETATM   11  O2  THM B   2      45.628  84.829  55.517  1.00 13.55           O  
+HETATM   12  N3  THM B   2      44.558  83.642  53.957  1.00  9.16           N  
+HETATM   13  C4  THM B   2      44.512  82.656  52.961  1.00 12.59           C  
+HETATM   14  O4  THM B   2      43.426  82.385  52.403  1.00 15.07           O  
+HETATM   15  C5  THM B   2      45.770  81.985  52.630  1.00 10.50           C  
+HETATM   16  C5M THM B   2      45.777  80.884  51.493  1.00 10.32           C  
+HETATM   17  C6  THM B   2      46.858  82.337  53.297  1.00 10.23           C  

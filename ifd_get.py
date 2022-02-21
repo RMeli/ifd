@@ -8,7 +8,7 @@ df = pd.read_csv("IFDdata.csv")
 print(df)
 
 for i, r in df.iterrows():
-    dirname = r.rec_pdb + "_" + r.lig_pdb
+    dirname = os.path.join("data", r.rec_pdb + "_" + r.lig_pdb)
     os.makedirs(dirname, exist_ok=True)
 
     rec_pdb_file = prody.fetchPDB(r.rec_pdb, chain=r.rec_chid, folder=dirname)

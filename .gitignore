@@ -1,1 +1,6 @@
 *.pdb.gz
+
+tmp/
+
+# Containers
+singularity
