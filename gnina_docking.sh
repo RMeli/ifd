@@ -2,8 +2,8 @@
 
 # Perform docking with rigid and flexible residues using GNINA
 
-flexdist=3.5
-exhaustiveness=64
+flexdist=4.5
+exhaustiveness=8
 
 cpus=8
 
