@@ -1,20 +1,20 @@
-rec_pdb,rec_chid,rec_lig_id,lig_pdb,lig_chid,lig_id
-2acr,A,CAC,1ah3,A,TOL
-1dm2,A,HMD,1aq1,A,STU
-1aq1,A,STU,1dm2,A,HMD
-3pgh,A,FLP,1cx2,A,S58
-1cx2,A,S58,3pgh,A,FLP
-1err,A,RAL,3ert,A,OHT
-3ert,A,OHT,1err,A,RAL
-1ksn,A,FXV,1xka,C,4PP
-1xka,C,4PP,1ksn,A,FXV
-1rth,A,U05,1c1c,A,612
-1c1c,A,612,1rth,A,U05
-1nsc,A,SIA,1a4q,A,DPC
-1a4q,A,DPC,1nsc,A,SIA
-1fm9,D,570,2prg,A,BRL
-2prg,A,BRL,1fm9,D,570
-1kr6,A,DGL PHQ,1kjo,A,THR PHQ
-1kjo,A,THR PHQ,1kr6,A,DGL PHQ
-1kim,A,THM,1ki4,B,BTD
-1ki4,A,BTD,1kim,B,THM
+rec_pdb,rec_chid,rec_lig_id,lig_pdb,lig_chid,lig_id,flexres
+2acr,A,CAC,1ah3,A,TOL,A:111/A:122/A:300
+1dm2,A,HMD,1aq1,A,STU,A:10/A:13/A:33/A:83/A:84
+1aq1,A,STU,1dm2,A,HMD,
+3pgh,A,FLP,1cx2,A,S58,A:355/A:523
+1cx2,A,S58,3pgh,A,FLP,A:120
+1err,A,RAL,3ert,A,OHT,A:404/A:421/A:524/A:525
+3ert,A,OHT,1err,A,RAL,A:346/A:420/A:421/A:424
+1ksn,A,FXV,1xka,C,4PP,A:99
+1xka,C,4PP,1ksn,A,FXV,C:174/C:192
+1rth,A,U05,1c1c,A,612,A:229/A:236
+1c1c,A,612,1rth,A,U05,A:95/A:100/A:101/A:227/B:138
+1nsc,A,SIA,1a4q,A,DPC,A:220/A:244/A:274
+1a4q,A,DPC,1nsc,A,SIA,
+1fm9,D,570,2prg,A,BRL,D:284/D:289
+2prg,A,BRL,1fm9,D,570,A:282/A:286/A:360/A:363/A:473
+1kr6,A,DGL PHQ,1kjo,A,THR PHQ,
+1kjo,A,THR PHQ,1kr6,A,DGL PHQ,A:112
+1kim,A,THM,1ki4,B,BTD,A:132/A:168
+1ki4,A,BTD,1kim,B,THM,
