@@ -5,10 +5,10 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 
 
-#prefix = "flexdist3.5_exhaustiveness8"
+# prefix = "flexdist3.5_exhaustiveness8"
 # prefix = "flexdist3.5_exhaustiveness64"
-#prefix = "flexdist4.5_exhaustiveness8"
-#prefix = "flexdist4.5_exhaustiveness64"
+# prefix = "flexdist4.5_exhaustiveness8"
+# prefix = "flexdist4.5_exhaustiveness64"
 prefix = "residues_exhaustiveness8"
 
 wdir = os.path.join("docking", prefix)
